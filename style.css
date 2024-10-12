@@ -1,5 +1,6 @@
 h1, h2{
     color: rgb(140, 76, 8);
+    padding: 2%;
 }
 body{
  line-height: 1.5;
@@ -18,4 +19,10 @@ section{
     margin-top: 0px;
     padding-bottom: 5px;
     border-top: solid 1px gray
+}
+p{
+    padding: 2%;
+}
+a{
+    padding: 2%;
 }
